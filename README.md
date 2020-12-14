@@ -1,3 +1,3 @@
-# Hello Muse!
+# test muse
 
 A simple Hello World program.
